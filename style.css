@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+.logo {
+    margin: 5px;
+    position: absolute;
+    left: 2em;
+    font-family: 'Borel', cursive;
+    font-size: 5vh;
+    cursor: pointer;
+}
+
+#search {
+    width: 250px;
+    height: 20px;
+    border: 0.5px solid;
+    border-radius: 4px;
+    position: absolute;
+    top: 18px;
+    right: 510px;
+    padding: 3px;
+    text-align: center;
+}
+
+.fa-user {
+    position: absolute;
+    top: 30px;
+    right: 12em;
+    cursor: pointer;
+}
+
+.fa-heart {
+    position: absolute;
+    top: 30px;
+    right: 9em;
+    cursor: pointer;
+}
+
+.fa-square-plus {
+    position: absolute;
+    top: 30px;
+    right: 6em;
+    cursor: pointer;
+}
+
+.fa-bars {
+    position: absolute;
+    top: 30px;
+    right: 3em;
+    cursor: pointer;
+}
+
+#dp {
+    width: 14%;
+    border-radius: 50%;
+    position: absolute;
+    top: 110px;
+    left: 18em;
+    cursor: pointer;
+}
+
+#circle {
+    width: 14%;
+    position: absolute;
+    top: 110px;
+    left: 18em;
+}
+
+#un {
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 110px;
+    left: 14.4em;
+}
+
+#bt {
+    width: 30px;
+    position: absolute;
+    top: 118px;
+    left: 44.2em;
+}
+
+.follow {
+    width: 80px;
+    padding: 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    border: 0.5px;
+    border-radius: 8px;
+    position: absolute;
+    top: 115px;
+    right: 27.5em;
+    cursor: pointer;
+}
+
+.msg {
+    width: 80px;
+    padding: 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    border: 0.5px;
+    border-radius: 8px;
+    position: absolute;
+    top: 115px;
+    right: 20em;
+    cursor: pointer;
+}
+
+#thrd {
+    width: 28px;
+    position: absolute;
+    top: 118px;
+    right: 15em;
+}
+
+#post {
+    position: absolute;
+    top: 170px;
+    left: 31.7em;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#flwr {
+    position: absolute;
+    top: 170px;
+    left: 40em;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#flwg {
+    position: absolute;
+    top: 170px;
+    left: 52em;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#name {
+    font-family: 'Inter', sans-serif;
+    font-size: 23px;
+    position: absolute;
+    top: 210px;
+    left: 22em;
+}
+
+#des {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 245px;
+    left: 33.8em;
+}
+
+#bio {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 265px;
+    left: 33.8em;
+}
+
+.highl {
+    width: 6%;
+    border-radius: 50%;
+    position: absolute;
+    top: 350px;
+    font-family: 'Inter', sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#h1 {
+    position: absolute;
+    left: 18em;
+    cursor: pointer;
+}
+
+#h2 {
+    position: absolute;
+    left: 28em;
+    cursor: pointer;
+}
+
+#h3 {
+    position: absolute;
+    left: 38em;
+    cursor: pointer;
+}
+
+#h4 {
+    position: absolute;
+    left: 48em;
+    cursor: pointer;
+}
+
+#n1 {
+    position: absolute;
+    top: 440px;
+    left: 19.2em;
+}
+
+#n2 {
+    position: absolute;
+    top: 440px;
+    left: 29.8em;
+}
+
+#n3 {
+    position: absolute;
+    top: 440px;
+    left: 40em;
+}
+
+#n4 {
+    position: absolute;
+    top: 440px;
+    left: 49.4em;
+}
+
+hr {
+    width: 72%;
+    position: relative;
+    top: 510px;
+    opacity: 0.4;
+}
+
+.img {
+    width: 15px;
+    position: absolute;
+    top: 540px;
+}
+
+#grid {
+    position: absolute;
+    left: 29em;
+}
+
+#vdo {
+    position: absolute;
+    left: 40em;
+}
+
+#tag {
+    position: absolute;
+    left: 50em;
+}
+
+.sec {
+    font-family: 'Inter', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    position: absolute;
+    top: 540px;
+}
+
+#profgrid {
+    position: absolute;
+    left: 37.5em;
+}
+
+#reel {
+    position: absolute;
+    left: 51em;
+}
+
+#tagged {
+    position: absolute;
+    left: 63em;
+}
+
+.profile img {
+    position: absolute;
+    top: 590px;
+    width: 23.5%;
+    padding: 7px;
+}
+
+#photo1{
+    position: absolute;
+    left: 11em;
+}
+
+#photo2{
+    position: absolute;
+    left: 30em;
+}
+
+#photo3{
+    position: absolute;
+    left: 49em;
+}
